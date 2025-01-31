@@ -1,8 +1,8 @@
 
 import svg1 from "../../assets/backgrounds/WaveLinesDesktop1.svg";
 import svg2 from "../../assets/backgrounds/WaveLinesDesktop2.svg";
-import svg3 from "../../assets/backgrounds/WaveLinesDesktop3.svg";
-import svg4 from "../../assets/backgrounds/WaveLinesDesktop4.svg";
+// import svg3 from "../../assets/backgrounds/WaveLinesDesktop3.svg";
+// import svg4 from "../../assets/backgrounds/WaveLinesDesktop4.svg";
 import heroImage from "../../../public/banner-image.png";
 
 const Hero = () => {
