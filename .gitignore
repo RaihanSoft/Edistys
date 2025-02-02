@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.gitignore
+footer.jsx
+technology.jsx
+Trusted.jsx
+Legacy.jsx
