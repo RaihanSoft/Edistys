@@ -1,6 +1,6 @@
 # AnyTech Website
 
-Live: [AnyTech Website](https://github.com/RaihanSoft/Edistys.git)
+Live: [AnyTech Website](https://edistys-seven.vercel.app/)
 
 ## Overview
 
