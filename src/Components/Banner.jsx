@@ -213,7 +213,7 @@ const Banner = () => {
           </div>
 
           <div className="xl:relative xl:col-span-8 xl:mt-0 mt-6">
-            <div className="relative overflow-hidden ">
+            <div data-aos="fade-left" className="relative overflow-hidden ">
               <img
                 src={heroImage}
                 alt="Professional woman with phone"
